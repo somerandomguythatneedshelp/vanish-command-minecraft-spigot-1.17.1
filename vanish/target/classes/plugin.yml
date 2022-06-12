@@ -1,0 +1,7 @@
+name: Vanish
+version: '1.0-SNAPSHOT'
+main: vanish.vanish.Vanish
+api-version: 1.17
+commands:
+  v:
+    permission: stuff.vanish
